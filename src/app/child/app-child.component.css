@@ -1,0 +1,10 @@
+.box{
+  display: block;
+  border: 2 px solid;
+  background-color: pink;
+  text-align: center;
+  padding: 20px;
+  width:30%;
+  float:right;
+  margin-top: 15px; 
+}

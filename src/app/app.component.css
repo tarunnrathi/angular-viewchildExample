@@ -1,0 +1,24 @@
+p {
+  font-family: Lato;
+}
+.page-area{
+  display:-moz-inline-box;
+  border: 2 px solid;
+  background-color: red;
+  text-align: center;
+  padding: 20px;
+  width:100%;
+  float:inline-start;
+}
+
+.prop{
+  display: block;
+  border: 2 px solid;
+  background-color:yellow;  
+  padding: 40px;
+  width:50%;
+  float:left;
+  margin-top: 15px;
+  text-align: left;
+
+}

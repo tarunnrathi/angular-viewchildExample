@@ -1,0 +1,13 @@
+<div class="page-area">
+  <h2>Home</h2>
+  <div #box>
+    <h1>User Name is <span class="text-success">{{userName}}</span> </h1>
+  </div>
+</div>
+<div class="prop">
+  <button (click)="ChangeInProperty()">Change In Property</button> &nbsp;
+  <button (click)="CallChildMethod()" >Call Child Method</button>
+</div>
+
+
+<app-child></app-child>
